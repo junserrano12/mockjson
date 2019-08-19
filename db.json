@@ -1,6 +1,6 @@
 {
     "hotelInfo" : {
-        "name" : "Boracay Palace Hotel",
+        "name" : "Boracay Palace",
         "id" : "1024",
         "banner" : "/images/boracay.jpg",
         "gallery" : ["item1", "item2", "item3", "item4"]
