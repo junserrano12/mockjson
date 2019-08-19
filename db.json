@@ -1,0 +1,127 @@
+{
+    "hotelInfo" : {
+        "name" : "Boracay Palace",
+        "id" : "1024",
+        "banner" : "/images/boracay.jpg",
+        "gallery" : ["item1", "item2", "item3", "item4"]
+    },
+    "roomLists" : [
+        {
+            "id" : "001",
+            "name" : "Deluxe",
+            "tags" : null,
+            "occupants" : {
+                "adults" : 2, 
+                "childs" : 2
+            },
+            "bedType" : "1 King Bed or Twin Beds",
+            "dimension" : "34 sqm",
+            "inclusions" : [
+                {
+                    "id"   : "01",
+                    "name" : "Wifi",
+                    "icon" : "wifi"
+                },
+                {
+                    "id"   : "02",
+                    "name" : "Fully-stocked Mini Bar",
+                    "icon" : "check"
+                },
+                {
+                    "id"   : "03",
+                    "name" : "Balcony",
+                    "icon" : "check"
+                }				
+            ]
+        },
+        {
+            "id" : "002",
+            "name" : "Deluxe Ocean View",
+            "tags" : null,
+            "occupants" : {
+                "adults" : 2, 
+                "childs" : 0
+            },
+            "bedType" : "1 King Bed or Twin Beds",
+            "dimension" : "34 sqm",
+            "inclusions" : [
+                {
+                    "id"   : "01",
+                    "name" : "Wifi",
+                    "icon" : "wifi"
+                },
+                {
+                    "id"   : "02",
+                    "name" : "Fully-stocked Mini Bar",
+                    "icon" : "check"
+                },
+                {
+                    "id"   : "03",
+                    "name" : "Balcony",
+                    "icon" : "check"
+                }				
+            ]
+        },
+        {
+            "id" : "003",
+            "name" : "Deluxe Ocean View",
+            "tags" : null,
+            "occupants" : {
+                "adults" : 2, 
+                "childs" : 2
+            },
+            "bedType" : "1 King Bed or Twin Beds",
+            "dimension" : "34 sqm",
+            "inclusions" : [
+                {
+                    "id"   : "01",
+                    "name" : "Wifi",
+                    "icon" : "wifi"
+                },
+                {
+                    "id"   : "02",
+                    "name" : "Fully-stocked Mini Bar",
+                    "icon" : "check"
+                },
+                {
+                    "id"   : "03",
+                    "name" : "Balcony",
+                    "icon" : "check"
+                }				
+            ]
+        },
+        {
+            "id" : "004",
+            "name" : "Royal Suite",
+            "tags" : null,
+            "occupants" : {
+                "adults" : 3, 
+                "childs" : 2
+            },
+            "bedType" : "1 King Bed or Twin Beds",
+            "dimension" : "34 sqm",
+            "inclusions" : [
+                {
+                    "id"   : "01",
+                    "name" : "Wifi",
+                    "icon" : "wifi"
+                },
+                {
+                    "id"   : "02",
+                    "name" : "Living Room",
+                    "icon" : "check"
+                },
+                {
+                    "id"   : "02",
+                    "name" : "Mini Pantry",
+                    "icon" : "check"
+                },
+                {
+                    "id"   : "03",
+                    "name" : "Fully-stocked Mini Bar",
+                    "icon" : "check"
+                }				
+            ]
+        }
+    ]
+}
