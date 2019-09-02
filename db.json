@@ -2,8 +2,38 @@
     "hotelInfo" : {
         "name" : "Boracay Palace",
         "id" : "1024",
-        "banner" : "/images/boracay.jpg",
-        "gallery" : ["item1", "item2", "item3", "item4"]
+        "banner" : {
+            "image": "/images/boracay.jpg",
+            "alt": "boracay",
+            "title": "boracay"
+        },
+        "gallery": [
+            {
+                "id": "01",
+                "image": "/images/boracay.jpg",
+                "alt": "Boracay",
+                "title": "Boracay"
+
+            },
+            {
+                "id": "02",
+                "image": "/images/boracay.jpg",
+                "alt": "Boracay",
+                "title": "Boracay"
+            },
+            {
+                "id": "03",
+                "image": "/images/boracay.jpg",
+                "alt": "Boracay",
+                "title": "Boracay"
+            },
+            {
+                "id": "04",
+                "image": "/images/boracay.jpg",
+                "alt": "Boracay",
+                "title": "Boracay"
+            }
+        ]
     },
     "roomLists" : [
         {
@@ -11,7 +41,7 @@
             "name" : "Deluxe",
             "tags" : null,
             "occupants" : {
-                "adults" : 2, 
+                "adults" : 2,
                 "childs" : 2
             },
             "bedType" : "1 King Bed or Twin Beds",
@@ -31,7 +61,7 @@
                     "id"   : "03",
                     "name" : "Balcony",
                     "icon" : "check"
-                }				
+                }
             ]
         },
         {
@@ -39,7 +69,7 @@
             "name" : "Deluxe Ocean View",
             "tags" : null,
             "occupants" : {
-                "adults" : 2, 
+                "adults" : 2,
                 "childs" : 0
             },
             "bedType" : "1 King Bed or Twin Beds",
@@ -59,7 +89,7 @@
                     "id"   : "03",
                     "name" : "Balcony",
                     "icon" : "check"
-                }				
+                }
             ]
         },
         {
@@ -67,7 +97,7 @@
             "name" : "Deluxe Ocean View",
             "tags" : null,
             "occupants" : {
-                "adults" : 2, 
+                "adults" : 2,
                 "childs" : 2
             },
             "bedType" : "1 King Bed or Twin Beds",
@@ -87,7 +117,7 @@
                     "id"   : "03",
                     "name" : "Balcony",
                     "icon" : "check"
-                }				
+                }
             ]
         },
         {
@@ -95,7 +125,7 @@
             "name" : "Royal Suite",
             "tags" : null,
             "occupants" : {
-                "adults" : 3, 
+                "adults" : 3,
                 "childs" : 2
             },
             "bedType" : "1 King Bed or Twin Beds",
@@ -120,7 +150,7 @@
                     "id"   : "03",
                     "name" : "Fully-stocked Mini Bar",
                     "icon" : "check"
-                }				
+                }
             ]
         }
     ]
